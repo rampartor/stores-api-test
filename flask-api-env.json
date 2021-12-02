@@ -1,0 +1,24 @@
+{
+	"id": "6c6f7c63-20e7-42d3-8530-b069afd2a267",
+	"name": "Stores REST API",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://127.0.0.1:5000",
+			"enabled": true
+		},
+		{
+			"key": "store_id",
+			"value": "1",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-12-01T04:05:36.469Z",
+	"_postman_exported_using": "Postman/9.2.0"
+}
